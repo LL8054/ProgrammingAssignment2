@@ -1,5 +1,8 @@
-## makeCacheMatrix allows for the creation of a matrix and the solving of its inverse.
-## if there is a cached copy of the inverse it will return that instead of recomputing.
+## Cachematrix.R allows for the creation of a matrix and the solving of its inverse.
+## If there is a cached copy of the inverse it will return that instead of recomputing.
+## This code is a slight tweak from the example functions "makeVector" and "cachemean" 
+##      from the Week 2 Programming Assignment of Dr. Roger Peng's R 
+##      Programming Course (rprof-007) in Coursera.
  
 
 ## makeCacheMatrix accepts the argument to create, store, and make available a matrix
